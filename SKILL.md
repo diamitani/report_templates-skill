@@ -1,3 +1,9 @@
+---
+name: report-templates
+description: >
+  Every report header must state: **date range · data sources · pulled at (CT)**. Numbers only from API responses received this session. Missing data → say "not available" Use this skill when working with report templates tasks or workflows.
+---
+
 # Maia Report Templates
 
 Every report header must state: **date range · data sources · pulled at (CT)**.
